@@ -32,8 +32,6 @@ public class MOD_3D {
                 System.out.println((i + 1) + "\t" + mahasiswa[i][0] + "\t" + mahasiswa[i][1] + "\t" + mahasiswa[i][2] + "\t");
             }
         } catch (NumberFormatException e) {
-            // TODO Auto-generated catch block
-
         }
     }
 }
