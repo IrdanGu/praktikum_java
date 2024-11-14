@@ -19,6 +19,9 @@ public class TUGAS {
         String[][] dataKaryawan = {
             {"1", "RADIT", "DIREKTUR", "10.000.000", "5.000.000"},
             {"2", "JANI", "MANAGER", "8.000.000", "3.500.000"}
+            // generate  5 new data here
+            
+
         };
 
         System.out.println("NO   NAMA       JABATAN       GAPOK         TUNJANGAN");
